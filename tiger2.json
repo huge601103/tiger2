@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "虎哥｜推荐",
+            "name": "🐯虎哥｜推荐",
             "type": 3,
             "api": "csp_Douban",
             "indexs": 1,
@@ -15,13 +15,13 @@
         },
         {
             "key": "FishConfig",
-            "name": "设置｜中心",
+            "name": "⚙️设置｜中心",
             "type": 3,
             "api": "csp_FishConfig"
         },
         {
             "key": "YGP",
-            "name": "新片｜预告",
+            "name": "🎬新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 1,
@@ -30,7 +30,7 @@
         },
         {
             "key": "Wogg",
-            "name": "玩偶｜4K",
+            "name": "🤡玩偶｜4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -49,7 +49,7 @@
         },
         {
             "key": "FishMuou",
-            "name": "木偶｜4K",
+            "name": "🪵木偶｜4K",
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
@@ -64,14 +64,14 @@
         },
       
         {
-            "key": "知予",
+            "key": "📚知予",
             "name": "知予｜4K",
             "api": "csp_AppNox",
             "type": 3,
             "ext": "AZO8UzEWvZvXzsgI4SNyGQ4L+vGtppdKcprDfwA5qTsMJGhz+Cj3rdFZ5YzhjdvBQIbdxwvClWQGLM9wF1u9ElENTfBdxL6uNMOvyy032H2gp1sS8fCxJq5a1oMSXMzsgNAh0RO6EKTHPogHj3cH2BbwaoPYdnleeqato0VOM6ffKeXl3SpXczHhvt6ZcTPNsFIgy2uSXX26nLfid+1yEEIuKA1wY0P11N8wRW4xt+WjV2X6IRjUXmAzuqNNp/m5Ap6tl/IJdxhAiUjPy3pkDj37urj2p4xkUusOkrv5ygSmQNiu/YSHMBJSpWzoimp6yrBtwYLMasumbJRePHjpzU88qKoq5W0Hg0jSYvvi8jXXPHosfChyzOo39MD2MeOJPgoyZ+Qq/3bk9qLX8tgqwN8QQ9eyW+eKBO3HlcPEYblkPB1RViR26NYMv5lxxDZCd/8bseGByoKAKmxTzN861Vgcfrg/NcUq4JZAqfM/HaRJcGI1WHoajHayK4KF54gofurfdoKZVubSGNYGPY7oI5mkPQ37SAQs6nCaqCU6GPisurONvttHIPLjl1huzrJ8UO+3V3oBZYn+IqgHQ6vujXEiCFlx27zmkAxfhOLQ1U13HGAAIljxAX30xsqOYhPA6dNtQaHCAcEUl3kFDEHT8osRG/VaPh3IFp3eDJBZHqQpBw+1tW4L7w4PqMzbY/FVj2goJMNlDwz20vFHUrAGQyN+B+PVHwuFktgMUeYbGqu4b8NdTJUlv6ghoYo4gtdeqLIy+LFqoKRJa1EVjleAA4vBrQW4jTRyft4OMamucYDUK2dlrBmnmAJGRQK0ZziH1eAHC3iau3rXQ0WUZB2ItgU+fp714k1RX3FDA7NaRXOkXRruEN2l3FzaNLeP+7KCY/GrG7ftj3MiDjnUaFSKubDJL3TAaW37ZKitDiu+RR6JLy+XTXFyfqa3gIiiC2FG6njx7FR0EnSyNaXAtfbYZdfXWp6YCCnEuDaI3kXT9wsRdq7QWjV6f+2d6XIPyfXr6OebhBuZFU99ELPgXGeUO9TJqqjFF9/6vDD6bhsPDpEc"
         },
         {
-            "key": "寻川",
+            "key": "⛰️寻川",
             "name": "寻川｜4K",
             "api": "csp_AppNox",
             "type": 3,
@@ -79,14 +79,14 @@
         },
        
         {
-            "key": "承夜",
+            "key": "🌙承夜",
             "name": "承夜｜4K",
             "api": "csp_AppNox",
             "type": 3,
             "ext": "AdnxSJmzQl5Vf3+oBLRo4ATeRIgjh1bR8glyICQXF2tPClbZWo6qKUMbH5WGVmBFc99kWgXy6Dr+Vnx1HhAarz1oNin+Fsnicyzio3n+x37vAMbJUaMHhXIEW7cfABiHePpwQljJOfnhIsNg+kxh8eHuxaSVGXjSaUO/s6+17V2XkQbcA+ebjWjBaloBBZj1Os0d/7ZV6gjDlR4AsrlBB0PQI7jATTvpFSw6rJPFSRu0kq5kv0BoiJnIDxkzRRv2a+KO3mLcw2QjInLvCgQJHZz8p9zT9Q32d+jxcgvK6/ZxjwuQKq/9/LHJUtK6FUcMiqIrrHtzbrXX5X2EN+H3GLaBXGzSEDcSUJ7uKhgIGVrytNZ26Ey2tmi39QegcKVFY8LZxqm/4zfl8OjsouxZhv/TKex4Sg4m+hi399NR/Th6L+lWV+cyUQk71MBmGaJ5o53rVnsCravL86ULDq7B6zbPvXNoxrKw5dFyLoIqAAzufarqBiTLndpp2U7+Dua4Q0bFdRnXIKNl5H4nf/T9OcL2rv/mfxPoNIaWFlRgyoTFMnTFjg6nOORaKZcsT0gTARWZtJSu9DP+yA3dn5xNz/yeYjxW7XCuazuhrF+/W8GqViiXufc6r2tSh6lkUCeQME2uvvx6ZMNQEBTP896jTdMCBnWktWsf8gNK+JMje/5gYYAbiyXoXdthpoXWmLC0Jlax1Ma6e5ujbENONqz3lLORsM5ZYbIY5Z3g1RA8gVdFvxwmtgyQE8qILTfPMDkCPmaFZEwmIOY8rHrB7DuVo9Hcl56cmCQFPHpz/AbHNM0/QnPclusjSvpd9jG2p1QE3BXZz1PWzyiECaxr3scstI98IGd2E7D0C4E5CFPxJtKnxHAOMdK8ptWbovH60wRiWdCX/pwCtpDGEc9pjmSdSajH0ODFfqDhg5Chw/gkWJsQSzcTU2dRBGlwdsVWCmOQLg6dQtw8p5NNY/a2FsdHdD7edZmzYcIO9gGJd61akWLJXvmQ2HmsnqcySY0lT14TbKhgh+S/8WGptahwCncds3JGhRSwcaB9QTsrLPc+ximJ"
         },
         {
-            "key": "枕霜",
+            "key": "❄️枕霜",
             "name": "枕霜｜4K",
             "api": "csp_AppNox",
             "type": 3,
@@ -94,7 +94,7 @@
         },
       
         {
-            "key": "沐辞",
+            "key": "🦚沐辞",
             "name": "沐辞｜4K",
             "api": "csp_AppNox",
             "type": 3,
