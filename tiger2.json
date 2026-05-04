@@ -94,8 +94,8 @@
         },
       
         {
-            "key": "🦚沐辞",
-            "name": "沐辞｜4K",
+            "key": "沐辞",
+            "name": "🦚沐辞｜4K",
             "api": "csp_AppNox",
             "type": 3,
             "ext": "Abi7QqHx7NkSnFxiX86dVd8OENEdBBUidS9e1ulTQ2D+bep3rrSlNIqBktmf+g8OmyL3Bdg9Zz8wuDhIfPFDG3dBhid4zHahyXhefuCvtr+WhREnRIA41FDNEcrTrLyT7dsJksV9V8mcfmNw5HWPE8YxzVKQgFfX/ISmYgsUI5861JXqjn02bxus2HwRf4bB79Hau/3APqJppTrqy2Qk5EM1Mu8z7O+XSCQ2f+qcSfDnt//qmXsyet/HyfuoIXk0VM/NEZxLA3PWEm8r+OpRPkjkq8gIzS31IoYHaJraZr/QsuYJQglJ5F41PNCi0xJFcPhq001t334LWxzIw5n/dRPQczqd4fEEWQHO2YbjV6frsAO6rWCcAwDYAqL275He0uDe4yLG09prxnVeYZS2qVf5/OFwI386gj7HCXLYU1gXLMMcYpSJxw33KAZLBIl/BN4PllN7LTazHoq3m1qilNwiUL64vyaJC0mAgq6Qijjy19o9ndSZDv+gcesCb9Ofn7xxjTlOlquGFwYiUh43gmNQdKNMh6VzGz0mhKdVuH+O+WYFrah3nsnyYSF2CAkoNQM6A9Vy4IFRkvzVdcfRh1kG6b04NoH0hdR43Ju76nywb1A+TnQZyZr6m3LtlWjUr31zzWH9yvGBSijq9OCcq3kXUNFQrMqz7RxlS+NIQ7m0xljYFNW0Sef02AA1XY3BlmZDpXLgjgqhfxDwDC3IW13yi/pEM6JfKfYcr7ghQGWffvvkARvIXpR3Pm8TdI4CfoLnhRsJZdl4/olGsDcnY6uH67uRuYA6GraQctt47P7QOzQeDeIKc4gyqiz+qB7jtVpkvZGQSM1V2pk1vlNHU3LexuUqTScotyTYhuExlBJ5buISFx/KI1gwHASQrI0voWQ6zwS5T1msJn0FjaMNuX0Wl44H/5Mtax3L7OixdL1L+GplJ5oPNSU9LCK7IVC29WTgn5jXb3745Ut/jQTJ8BmpEcQCUts1VJkQWvjgJxlKuP1GkzjWK57JFrVXeI9pNM5Al25SFSNVqxbFEbW37/dOE8XhIpZcR06yDrOZBX7m"
@@ -409,7 +409,7 @@
         },
         {
             "key": "FishDuanju",
-            "name": "💗超级｜短剧",
+            "name": "🏆超级｜短剧",
             "type": 3,
             "api": "csp_FishDuanju",
             "searchable": 1,
@@ -419,7 +419,7 @@
         },
         {
             "key": "HHkk",
-            "name": "💗好看｜短剧",
+            "name": "💐好看｜短剧",
             "type": 3,
             "api": "csp_HHkk",
             "searchable": 1,
