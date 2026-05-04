@@ -1,0 +1,686 @@
+{
+    "spider": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F5c3fda4d-d5a0-40e6-bcc8-0e0cde00b2d1.php;md5;f5a7cd10cfe6f902991ff6c3eb05f901",
+    "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
+    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "sites": [
+        {
+            "key": "Douban",
+            "name": "虎哥｜推荐",
+            "type": 3,
+            "api": "csp_Douban",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 1,
+            "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json"
+        },
+        {
+            "key": "FishConfig",
+            "name": "设置｜中心",
+            "type": 3,
+            "api": "csp_FishConfig"
+        },
+        {
+            "key": "YGP",
+            "name": "新片｜预告",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Wogg",
+            "name": "玩偶｜4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "site": [
+                    "https://wogg.xxooo.cf",
+                    "https://woggpan.888484.xyz",
+                    "https://wogg.333232.xyz",
+                    "http://woggpan.xxooo.cf",
+                    "https://www.wogg.one"
+                ],
+                "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
+            }
+        },
+        {
+            "key": "FishMuou",
+            "name": "木偶｜4K",
+            "type": 3,
+            "api": "csp_FishCloud",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://123.666291.xyz",
+                    "https://666.666291.xyz",
+                    "https://www.muou.site",
+                    "https://www.muou.asia"
+                ]
+            }
+        },
+      
+        {
+            "key": "知予",
+            "name": "知予｜4K",
+            "api": "csp_AppNox",
+            "type": 3,
+            "ext": "AZO8UzEWvZvXzsgI4SNyGQ4L+vGtppdKcprDfwA5qTsMJGhz+Cj3rdFZ5YzhjdvBQIbdxwvClWQGLM9wF1u9ElENTfBdxL6uNMOvyy032H2gp1sS8fCxJq5a1oMSXMzsgNAh0RO6EKTHPogHj3cH2BbwaoPYdnleeqato0VOM6ffKeXl3SpXczHhvt6ZcTPNsFIgy2uSXX26nLfid+1yEEIuKA1wY0P11N8wRW4xt+WjV2X6IRjUXmAzuqNNp/m5Ap6tl/IJdxhAiUjPy3pkDj37urj2p4xkUusOkrv5ygSmQNiu/YSHMBJSpWzoimp6yrBtwYLMasumbJRePHjpzU88qKoq5W0Hg0jSYvvi8jXXPHosfChyzOo39MD2MeOJPgoyZ+Qq/3bk9qLX8tgqwN8QQ9eyW+eKBO3HlcPEYblkPB1RViR26NYMv5lxxDZCd/8bseGByoKAKmxTzN861Vgcfrg/NcUq4JZAqfM/HaRJcGI1WHoajHayK4KF54gofurfdoKZVubSGNYGPY7oI5mkPQ37SAQs6nCaqCU6GPisurONvttHIPLjl1huzrJ8UO+3V3oBZYn+IqgHQ6vujXEiCFlx27zmkAxfhOLQ1U13HGAAIljxAX30xsqOYhPA6dNtQaHCAcEUl3kFDEHT8osRG/VaPh3IFp3eDJBZHqQpBw+1tW4L7w4PqMzbY/FVj2goJMNlDwz20vFHUrAGQyN+B+PVHwuFktgMUeYbGqu4b8NdTJUlv6ghoYo4gtdeqLIy+LFqoKRJa1EVjleAA4vBrQW4jTRyft4OMamucYDUK2dlrBmnmAJGRQK0ZziH1eAHC3iau3rXQ0WUZB2ItgU+fp714k1RX3FDA7NaRXOkXRruEN2l3FzaNLeP+7KCY/GrG7ftj3MiDjnUaFSKubDJL3TAaW37ZKitDiu+RR6JLy+XTXFyfqa3gIiiC2FG6njx7FR0EnSyNaXAtfbYZdfXWp6YCCnEuDaI3kXT9wsRdq7QWjV6f+2d6XIPyfXr6OebhBuZFU99ELPgXGeUO9TJqqjFF9/6vDD6bhsPDpEc"
+        },
+        {
+            "key": "寻川",
+            "name": "寻川｜4K",
+            "api": "csp_AppNox",
+            "type": 3,
+            "ext": "AZwKLTGJseDoHAfRGZgidaVzBXHTFWKNP9y5+JMTNtMt+GZOYqXrg+BpTi30W2daF1BshLlNfT2WFEamYHeH16Ynudj2EiVK9+AWISKGdecnTJeGgFG0CYit/EisqgMyWohTap73SM+/gaBSL+oNwVgnGJ/8BuyMlAnuxbtcJWGDFUdKzdaM6Nn0gjj4jS9R+e6TH49uCDIVY0lt6iTnYMXmwq4wOWpE/gZUZiCk23d0tPI/V0CuL+Hl5ITXvfkLx1+H1XZdm6C3pIUJMwb4gZ95W2rrkhX4d3Yrws1eld1nXu5ejRbrLHype4LnZuwHpo7iq+vUT0HfMEkJnFtuBOT6nOw7xKLNWXSJC7PmJDDIr8yabmtdnIzeI6LOJPtmD+w4drvqJpty/1YjxXfFUA19qwnAB7iuLLdeKmeaYKecLstYv7+bEY6vFibImX79eOtrlUUEaglkmuqWqmShFYv/YeuZ2LtYb9eWmDBelBIXhFHXsxYAk8+rNB9AMVVpGhisUIcAA75ha+5mnGVtALRsAW3BFIhy0GiQ9vOzeWwC9osf8YMQ9vfyskzhUFpvT1EhJTGiOsq8vYBi8t+FDRUC1z+13AbyTGk9yDgx74fMHYg9pexhwkotIP8oSDr19Xy4q0Gz6QWjjDxtDlAK3qH5erFmOU8uzdckAjgHxwZ7tfvZXUqQcLz4ICIqgN3WxpAMD0Jnenifi852lCB5HDmaJ6lLpmlr8eGr0OVXVNHRS5mttbisDkbrz5O4wlglsfwX1xzW8namjlc15Kfv/24xFjlzQk+r4fOE4knXw38VsFTMZb+Yz1ODPIagwmOQt9xTHdHefU+FML6MTrBi0hHfW0ooVITGfniCerhOvXW73eZfABNkQaj43UQ37Xo9zFAa8INzYeGlGomHPAQLaH+agFZsM3dL+RgPDL8PO6rpp7I6rKCv5rxtz1rDGKEfWuT4YaJL2aoDjZY28vjxbFDpADFKjlK7wDeeGjB7kR8BDgFtexk3HcdNmAVD4SweeQ=="
+        },
+       
+        {
+            "key": "承夜",
+            "name": "承夜｜4K",
+            "api": "csp_AppNox",
+            "type": 3,
+            "ext": "AdnxSJmzQl5Vf3+oBLRo4ATeRIgjh1bR8glyICQXF2tPClbZWo6qKUMbH5WGVmBFc99kWgXy6Dr+Vnx1HhAarz1oNin+Fsnicyzio3n+x37vAMbJUaMHhXIEW7cfABiHePpwQljJOfnhIsNg+kxh8eHuxaSVGXjSaUO/s6+17V2XkQbcA+ebjWjBaloBBZj1Os0d/7ZV6gjDlR4AsrlBB0PQI7jATTvpFSw6rJPFSRu0kq5kv0BoiJnIDxkzRRv2a+KO3mLcw2QjInLvCgQJHZz8p9zT9Q32d+jxcgvK6/ZxjwuQKq/9/LHJUtK6FUcMiqIrrHtzbrXX5X2EN+H3GLaBXGzSEDcSUJ7uKhgIGVrytNZ26Ey2tmi39QegcKVFY8LZxqm/4zfl8OjsouxZhv/TKex4Sg4m+hi399NR/Th6L+lWV+cyUQk71MBmGaJ5o53rVnsCravL86ULDq7B6zbPvXNoxrKw5dFyLoIqAAzufarqBiTLndpp2U7+Dua4Q0bFdRnXIKNl5H4nf/T9OcL2rv/mfxPoNIaWFlRgyoTFMnTFjg6nOORaKZcsT0gTARWZtJSu9DP+yA3dn5xNz/yeYjxW7XCuazuhrF+/W8GqViiXufc6r2tSh6lkUCeQME2uvvx6ZMNQEBTP896jTdMCBnWktWsf8gNK+JMje/5gYYAbiyXoXdthpoXWmLC0Jlax1Ma6e5ujbENONqz3lLORsM5ZYbIY5Z3g1RA8gVdFvxwmtgyQE8qILTfPMDkCPmaFZEwmIOY8rHrB7DuVo9Hcl56cmCQFPHpz/AbHNM0/QnPclusjSvpd9jG2p1QE3BXZz1PWzyiECaxr3scstI98IGd2E7D0C4E5CFPxJtKnxHAOMdK8ptWbovH60wRiWdCX/pwCtpDGEc9pjmSdSajH0ODFfqDhg5Chw/gkWJsQSzcTU2dRBGlwdsVWCmOQLg6dQtw8p5NNY/a2FsdHdD7edZmzYcIO9gGJd61akWLJXvmQ2HmsnqcySY0lT14TbKhgh+S/8WGptahwCncds3JGhRSwcaB9QTsrLPc+ximJ"
+        },
+        {
+            "key": "枕霜",
+            "name": "枕霜｜4K",
+            "api": "csp_AppNox",
+            "type": 3,
+            "ext": "Af1/6Y52uCcPbQl7IHrMceiPw3QWWzjeBXFiqhGDUYsuyDMVTAYqMnW0nMStGbZ6lcYLK2Bkk9rscOnqCso+gHJrZPcZQ3hgj8MbOqXxrt0cb+raTh5pLbiBdsBczLv+oYyKiF1tVW/Z33zzESEo27Ejmxir8ZP9mErU61hqWFKiH3O7GRMA5I94frJCWV0ts82nlcEuYuYoxarOOjF7pjeV0KgqPhsFChHuwSNzs/ntq4QMIv0MbM8FSLZlqg4V7IXofCp0/8692k7H2qwC2d4z0u3KSt4aFK9wOHWTqoBymDP3+Z4H45gcc9NoEM3El1WdkEOWXf9jHNOpK9i4y9xWzHwTbJ01ZQ1UhvlAjizpIfxesMWTfZQIXK1z5sjbNAxDafeUYzD8gtpczIlD/hoIw5ZBHqHYmBo26czJHclnJZEW/HIuF46rmCckpE+OP6RnhEMa4P0Z5+cW3RhTlk7hpeVWnqJZ+zbUuaOKUQzKHV9b0mRVzMVIQD0uGfsYCAQnqPcOIyVD5JQyL53GYp4fnEm2+9tECMUZIycv9HYoaLhQeq5P2t8E7fr/7/Yb3xgciZS0ies1MBWttooUjGKCplOKK1KLXsjb5440b+X3WNxBGCzbj9CmWlx7nwvhMGg0V/mZiRxYi/wYQrHy5/u9Wq/IUfXbJs+kS+cwGhf/cNu6ZnTSaWgPc0Lgs2tArez7+yazPys2IS0sDqVp9USRvhrVVIXKYqUp+BYcH40Aa9Zd1FD+1flEkjBY27bS4dxc+n9I8ARzKCv7l2L3xo3LOoTJhwu4mjCX8R4KJnzCgziG8zpTPFmomzlFCpqfGH+HD1m64+ssWCltqYZk2lWAsWOGOIyYBYFAGAE+oy7YwqQVFTJ7WlXdYaMNvU4cBuiBK7rajrIW5xydsumizDcqHISmos7CXcouLxWWE+fFC2lwFfJhjwDyYZeOhRtRMrmGVK+dfKPw4pd2ednlesxcLiCLO0smoJ8JivY3WNRYkBdLTd9X7h9TvOUUySmtkil9zlmTkTUSY/HwoMURpuDUlSqZIc5Ov8/mglapkkmSy/QIBcLVJsMphC+naxzv5A=="
+        },
+      
+        {
+            "key": "沐辞",
+            "name": "沐辞｜4K",
+            "api": "csp_AppNox",
+            "type": 3,
+            "ext": "Abi7QqHx7NkSnFxiX86dVd8OENEdBBUidS9e1ulTQ2D+bep3rrSlNIqBktmf+g8OmyL3Bdg9Zz8wuDhIfPFDG3dBhid4zHahyXhefuCvtr+WhREnRIA41FDNEcrTrLyT7dsJksV9V8mcfmNw5HWPE8YxzVKQgFfX/ISmYgsUI5861JXqjn02bxus2HwRf4bB79Hau/3APqJppTrqy2Qk5EM1Mu8z7O+XSCQ2f+qcSfDnt//qmXsyet/HyfuoIXk0VM/NEZxLA3PWEm8r+OpRPkjkq8gIzS31IoYHaJraZr/QsuYJQglJ5F41PNCi0xJFcPhq001t334LWxzIw5n/dRPQczqd4fEEWQHO2YbjV6frsAO6rWCcAwDYAqL275He0uDe4yLG09prxnVeYZS2qVf5/OFwI386gj7HCXLYU1gXLMMcYpSJxw33KAZLBIl/BN4PllN7LTazHoq3m1qilNwiUL64vyaJC0mAgq6Qijjy19o9ndSZDv+gcesCb9Ofn7xxjTlOlquGFwYiUh43gmNQdKNMh6VzGz0mhKdVuH+O+WYFrah3nsnyYSF2CAkoNQM6A9Vy4IFRkvzVdcfRh1kG6b04NoH0hdR43Ju76nywb1A+TnQZyZr6m3LtlWjUr31zzWH9yvGBSijq9OCcq3kXUNFQrMqz7RxlS+NIQ7m0xljYFNW0Sef02AA1XY3BlmZDpXLgjgqhfxDwDC3IW13yi/pEM6JfKfYcr7ghQGWffvvkARvIXpR3Pm8TdI4CfoLnhRsJZdl4/olGsDcnY6uH67uRuYA6GraQctt47P7QOzQeDeIKc4gyqiz+qB7jtVpkvZGQSM1V2pk1vlNHU3LexuUqTScotyTYhuExlBJ5buISFx/KI1gwHASQrI0voWQ6zwS5T1msJn0FjaMNuX0Wl44H/5Mtax3L7OixdL1L+GplJ5oPNSU9LCK7IVC29WTgn5jXb3745Ut/jQTJ8BmpEcQCUts1VJkQWvjgJxlKuP1GkzjWK57JFrVXeI9pNM5Al25SFSNVqxbFEbW37/dOE8XhIpZcR06yDrOZBX7m"
+        },
+        {
+            "key": "清沅",
+            "name": "清沅｜4K",
+            "api": "csp_AppNox",
+            "type": 3,
+            "ext": "AfyjGqtDxeFBK/FAGHLai/lfJrkyce6xU1r65ztCSaBP385PA+UUWqSoOiWuSLIi7GDkIrabPJW7MVTOwC3fcl61U+DE6vKrZOtEnVb7rXp7S9T3G2zR415IEyfvTObxupWW9zew9YcLbL/fEnQPsAaOf/2nY5BIKmdo3ebnRR2zJdL6cPGTXM3eYPB8h0QV1tyUGdG0QYrJGLqhSqW/M46e9wTmKnhgaGYN/Bwz9wsqeaY6tEiJk05Qe6gopVHI9P6C1DL3lxeHtF2Fs77ijvtOn+JPe5VkB3o/7m8U4sI2JHuituAjpn5QbF9z83pFfT+QIjo+R1DR5/0Vte1BjWrpqFa/T0hoWZwCsbGhPvPwMHx0Tl06aMjOGb/3Bp+yef71UUwo2aJlml7qvDxvYvX4sokpmROCTEiyGFpL8CEYBVjVuVeEbO8DUIbOpAQIo/Yo8ilzE9diX1Dc6cKceW1zZZIHc+zPbOwAZj8qXSR31nr4pdpp/cpsav6vtrsq+v3AGO9WR3iGhBbBWshjVBu+oRBB892hAMwgcDWAskHLwbuweBfZQchp9h3uKiatswvJ8R9ysWKJLp4dIVoAsnBpOkxLCPT4BwCkJACPqCS/aXKf/p7++kIJ3NFUyFEmmCQ0x++8GKGh6djVIsx6pTuCtcP/cGbk7vryhVQ0flzDzKz9nbwr3YWXZ6GkLd1HjVfoACnJk3JhDuaNWZIks9Lhw+fIfSNpK96g1OTiDMR04PwyZFm7o8dZ5KMNow3l3hYLMBZJq3wHq5txGcGZv6svZ8Je2zJ3bK1L4Ud1B7vca9yo3Es15HrYGZt8QHM5KFgHAZkK6aBio8a4YL0qULawLxuaVrAJKhzcCHq+c9wX4pyniS9yHBe8RSUConYx0b9hlVvRSJUN5MQATV0aY5G+gATJm1iQ55NMb9EGpHVQTFza4B+xXZjpcyk2gov2PXozpSY8cWfh0krQvPgLlsDLG4SBlb/i2ZI3CrkIsuD/x2oQ0qIS3azqZy1+FWN9ihw0X13rhcUBdNSxRmHXka8="
+        },
+       
+        {
+            "key": "bili",
+            "name": "笔触｜琉璃",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "cookie": ""
+            }
+        },
+        {
+            "key": "zhiqiu",
+            "name": "听风｜知秋",
+            "type": 3,
+            "api": "csp_zhiqiu",
+            "searchable": 1,
+            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+        },
+      
+        {
+            "key": "Kan360",
+            "name": "流离｜寒鸦",
+            "type": 3,
+            "api": "csp_Kan360",
+            "searchable": 1,
+            "filterable": 1,
+            "ext": {
+                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+                "fishjx": [
+                    "https://jx.xmflv.com/?url="
+                ]
+            }
+        },
+        {
+            "key": "Rebo",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "三秋影视",
+            "name": "三秋｜APP",
+            "api": "csp_App3Q",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "若寒",
+            "name": "若寒｜APP",
+            "type": 3,
+            "api": "csp_AppEy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AQRujO/5SnKoiRduCykqhbV9tdvERLolZv7pB+kGKsMHVROei4qksg/bCne63VY/XBMwYGiP8LX8StcJA9GE+RikzNprvURBWi9DUuMHogzHnnmKaJRyCH+KlExdU4D+y3XpcKYkW2AQ+mipyZ1HEOMSXJO7ZfjVg+CcMWywKbF1FnaNJ+4TLZkhvwWDunLQ7CDUaTbuu8jS4a8gQsNPLM7Ecpn1IP1cmigkW2LzEJ40Gdu1k0s245buvG/ttYP7SCnslX6aRPKWvU9Gbi6rNNu0sMfcz1f2w7HcCSNVGOOHiqG/fnvoaSHIFF7EmB+yc56lIBXicH3p15R+/bM4P9o77w+GHH4JWkSPbmO7Vp6S4BsIId1OrKuaItlXxdRD6IRv9QPzd8JglSVQjzDHMeVXoAaTzjbYVKG1WuPu0IiiVgSvr/ox1S4IoBw8t73VS3m7WdBDau/wJgneY3p5cj4rDNzA1SQFHChZ3sRjUA+4uUHy65Ve2qaRA5EzAfKWUPJHOIwj2XNh7g7ON426D6h6hPy/uUxBmVK/8j8UuF/SbTCKc168giq73b8/i1TMNijpwJIloU2xPG6j0Ai3yvef9VFXiN6pkHTTf8Bbo8qIMRXa4scWfS9VP9ajcGz4J2kv/TBfaGGLvcvZhbRD/Tg1v4H/qYh02Ye/JhBQpxQlS71T5kAovssYHZDAQbXvFQ=="
+        },
+        {
+            "key": "玄羽",
+            "name": "玄羽｜APP",
+            "type": 3,
+            "api": "csp_AppEy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AYkFcxAW1/H8qBIvCXg06UCsEeWycnMARrwHRXVUuhfhOvABG1rLyqTCA63FS6zxVyQH5XQKJEdiFxdaz9qv2hz8REyg4jJFbB8GBaqeZl8S2cJosjLkXBoJaAF906SjQKFQEv1Brx4siFRoPGf3kHf6G34yvSbSidrOeCp0gy8JC0z5A5h5EibJRKYb71kuWENBj5iKKJH6p4YBDTd1KuSkk8roF2SmoM3EnuZElODtmptP73kvrcx5gaePc4lGkhFacO554amj1ElueN8w6hkFSNGep3GvhWk03ysJ8uwDzoJ8jE/2QxxRkHpxin7q4BzJ06nElmlwGE0FIZVgmTy56l8JyDUVTyH9QXY8ElGNO8WPg1cfglIhkTVTrmnkKHk8aN75/5Gqa85HmiJhQL1yBMVh1XthrN9HLHiChU/NthakORMUlwN54hrt76d9BJeihYnpOCtCgKRXOpfgmTWJsPxpzJMYcEq/GKXoNGF2InF9E4OUNbqhS80BE4pSCn2UaxGjFo7WIhPOrx4JgN/DRjfmq+b37UeQVOjHdGtehYRhiYbDYB1F4+zrabSCa4LO2/QE2FqvNleAtlbCvGUwUPU9cVJmiqFRASffYKqaclISN0dvcejhJn5kLehWAA9icGXAGjIe2td+I6vKaXBka1cky4w99sCLbGLjGHjMzF2b++o25rs8yxo2D2WYAcDb19JLQ4kU+JYQasD4/DhkMH6W6NE8FvOOlhhaY5WEDVXevbvsNlPxd/HxE+F8Ews+CEUxeZNFFp6IPzw7KzU="
+        },
+        {
+            "key": "如兰",
+            "name": "如兰｜APP",
+            "type": 3,
+            "api": "csp_AppEy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AaeTmp/RhjlFhfvl9ftvxmADagoMA0JbssweeMNvggc74qDDjnFtMMoId6v25iR7TqMF0GiLKJFnrP4nZQ42n/O44e5moWmeYwerhYpuYiKHiimDjx7oxt+Hqxr5vtjh0yWMfnWvK/VVKsGhHjH6ejmNsyMGOrZzm3FdION/Gv/EgLPwWISHC+reUl8AtulbCvcqI4r5S3OGNIKJVe7HHLpOUaBQctVbEowHJTI0CYUpIp+EoLhByNSs+6x9V7KdZZuB5ARBoG6bOot7gYQECQxKLN7w3gUgp/bLf+Gmi0NG2u2tK31gqPuwJzgWmh2TmbxvEV5CVtK6pPkfpQDvPXQb1BXVkel58XiGNkiPsbeUyO7QST/vR9cP4O0vJJ6Kc5yO3rU5x87bysEPMlx1Tf/LOQAE/H63z41PhP9QwUHzwR5dTCdazsZ3EvKKpf7DvqrnJG8Nshui3HJ0cApzfV6F5t2As2D5FXInRHle0sSBNFdGqy3itkiCHbkSQna7UF4ant79EGzKUiaMVbwjRnY05gaP1638pWkQkE/TeD72PHTmrU1hx/R7kexvpyEgNp/ToyJb8L2xri5cwyjtSUaqUxfLaVcaJoRwv4rFpySaji3QcPOvvXf/kYLGGadD0vekWd3usTjaJOyRzDVpUDOLhjn5MvuSDLfd8zSsNeWIWX3xOhohSbhcgXYO/78LQPU0i2kICmXG5jRcUztUa1lBoXzo68kWUVgBxP1u3HKJebXD4GaPA44lrj3Ai96zFg=="
+        },
+        {
+            "key": "敛芳",
+            "name": "敛芳｜APP",
+            "type": 3,
+            "api": "csp_AppEy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AWknFymW1QKzSllAr8Xyu2C757hMHfJbRCntpfFfre6wRHfEIOHUNSTCyRBp03+VzozAIgD0SImEo1rfkMlDYRkK9IjTbpDjVOh99Wf1I4J5K8N2CrSYuolSbbp5Um9VGqD4hGXpmeMExotv1CSaaSHrxWnTu0WJPVY5vBaPi6ox96sz8WB1wTL6a6oQX+rEbrS4neeZ9No9wbLnleqaQBti1EDWDE3aKKxUYP7aVLdu/lVNLzmv803SXsxf6zbyzuaS7W8IOOcA/kkcwVlBE+JcTI0pzLrn1NkTycBhyN5erRjjQ95/GOjShccieCAOiLlVhoInwCvJ0Qg1/19DSbrvOBjWZ2SEiVkguGKQqtWuQH9ZQHuHDcLd6LnbUgdigf7QuhvYXSQI5CEvfXXs3qCGjbKqgHGBkG7b5f952nbptJDY95Qm42TNTIHypkN3k9o8QlBUXnd+ih8oBlwef/6ox/ISSUmU8xDnf4Oju4/dE+5cCI9VtUayx1PrPEL2jcX+BmUUdio1hBqN2bUHjdyysk7j7yKRjIRDZxuHJH6tZILJ++5360MkRDDixM85Ia+T7UpB0QbeLVFikJPo576VV7sd02kUuFx+eAhxGhAstPv2H+yTuy+uiJfemkEQUSQa2xF1Gd32H/4dJRKupgBHcy6MrTfOjIy7AOVJFlZAO3N9HMpsIvYYoTPIWvAdWHjmodTt7S6aCiLQYJtq4hMjn9C0kkvfnpWyBsLh+ioCvxy0gCZmz2Z+d/ARqVyHxQ=="
+        },
+        {
+            "key": "怀桑",
+            "name": "怀桑｜APP",
+            "type": 3,
+            "api": "csp_AppEy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AeHuBSFDbAg/ylzse3+sKJiOifGa2TAeXRasJGz6TZ4+yymVR+BWV6xdRKTQMKZsmNpjDEUyruZx8khwlylty5QHVyVgEc86h+xHEsgd8X9pWetfcI1JVnJVhzZB0ohjgKOd/fWvfmFCYNGyxzPHBxr8TNil5FRmEeExFJ9eG0/9Pb1LbacXSzxmEFaNBKY1qTkVGn3dvMF+l2Y0D53SVoDcNJBBV09c+amJ2gdzXJkQhOcZGNrHpbI2YZ8kSJY6+F7m9W2VReSe+K3Wk3GG2FdADAOY2VGcQIlzpdG1Vl8Elnlwtw32/ETisfMQfbo2NR2ObG1j7R80IEWsyMU7DxzbItGG1Rc+xKVWvyK4V/6lk/W83NkT++/IetW+YR5cz+hi5XjwoPdb+dWa+2VNlKXFfbJNcwAs34W3r0ArRdHUealTISR+llsOM66AliNbAu1VjRkRDXb0nFH8NdNaVfAvfVgYKvQzAY1s6jNQmk1SL0jIIq6+aDExiiO0DRgu/gD3PupsI/PRsTHjMfHmUAbQs87r0QRGS2EYa23Fi3oCZe5NczTAv7DMF8zTni24RCP8ex+hzCUTeRtWEEwy1lFdcxqpMx40+xl6ydmZRxMAia1CxygKCAITK1frNWVSTc5477fgat7uJqTVxpbkCwLIDuYWQzepWWFjQLfUqTSP9ghikjKNFK3QKIXA80RFuj30U9nqAEWJ91DXLp63+lI="
+        },
+        {
+            "key": "长泽",
+            "name": "长泽｜APP",
+            "type": 3,
+            "api": "csp_AppEy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AeljPqr62826qs6bzc6j9/RpTf5QqEVJa4b5H5OWsIYiMVQz3YGn42ihdsNCoQ1qLIRV4jal/W/zW1pKZYZ0RmoCuYh8eFjKQlrB6+iuxYA/b8wdMZt1uIIDQ3V8O4x+Wvio/epeb64UT81bzT4d/KmkXob57oV0DKhlk9v/UEnPdxVW5dePxXsRGUWQiuwVAJRl5cpv58UAS+MMaxvlwviCWYD/lfr+YU1z/30AKZ79JCX2YyCiWOzuu30r2HKYAPyg5mizKoX/9IsnW8qD/91OL0pU7v7Nz7EUbd47aRkgQQtAxPp7k8x11SE4RwODbNg496QYlseyXh/98aNEzxZ2QYC8dAg1ZD9TBHfqmWvStmJ5Hgh09OP/pvsCqbfHknWj+IpM700L8gFa+QsCVOF5In1wEW6nIpXymrGa5ojn6M5Abay4P6xcOVtcH4TSQshv7CmjTBdPzfrNVjwreJ3z1uULGIwhaTa1yFxFaYKaKZJm10Nnn7oxLgkd5MzZAPmAljAH8i46ovcPv5Vq+hq6muI98BQlv4ge0lWfwwJCxtjb0DMjuIZrmnRI12iMFkdG8+31iu5hj15v2GAE3vMs9tt8mpx+cjw0gPfoDHNDUn2Cui1eDi0X6TZ9X9U6v9JRMAsxnL9UO1098u5woVDpToRzwBv9TVI1SsW5R/T1AicCx66ZDG1oQZv1aOF1OSKcmQTxdrs0a1KT1/1D4YKfkL3jGKicvjJAFmTkLX4LlJMScSI0t4mxpNs4gF4G8CHgr6QCcHef9iuM/trTkmc="
+        },
+     
+        {
+            "key": "枫眠",
+            "name": "枫眠｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": "ASMHPkmuZ3CO/NClj0tmMm6+eAespRDbvs3SHzlihurNEQ5i5S04bFidHFgIHh+7xoQusdbGBRTQh8vDeQlPQfaE2J2v/si9CU+d15PvpRVNqmPnqYifF3NSZG/8ThCtOYIXylbM5t4wTISNF0E75JF5qRewz0ZinZsp67CfthmvMObyuUCPCTxnx/ErDMZ7pW9OiT9QYQI/9yIISmcCEas="
+        },
+        {
+            "key": "思追",
+            "name": "思追丨APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "AXKrbZM79eMAGzneN3Wkitxcf6NgrYa8FRcHB2RFYrIa1DzrMAA3EZXW6am5C78oAR/IcCmhk7ghFpBqEJ8/VC63AO40BE4oVlRZpiP8nHBpCnKhO9Ve26VcA8pR6Hj5NaeQHhkhkHLBDW4qlc86fpzDMK0o7K0sPvglsUwQxl6I4IDKDzXlVF4su1fy63GpLqrj+BMY1G2OjVsC6G7XBRg="
+        },
+      
+        {
+            "key": "gying",
+            "name": "观影｜4K",
+            "type": 3,
+            "api": "csp_Gying",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "cookie": "",
+                "site": [
+                    "https://www.教父.com",
+                    "https://www.星际穿越.com",
+                    "https://www.楚门的世界.com",
+                    "https://www.泰坦尼克号.com",
+                    "https://www.盗梦空间.com",
+                    "https://www.肖申克的救赎.com",
+                    "https://www.阿甘正传.com",
+                    "https://www.黑客帝国.com"
+                ]
+            }
+        },
+        {
+            "key": "FishLabi",
+            "name": "蜡笔｜4K",
+            "type": 3,
+            "api": "csp_FishCloud",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://feimao666.fun",
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
+                    "https://feimao666.fun",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop"
+                ]
+            }
+        },
+        {
+            "key": "FishZhizhen",
+            "name": "至臻｜4K",
+            "type": 3,
+            "api": "csp_FishCloud",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://zhizhenpan.com/",
+                    "https://zhizhen8.click",
+                    "https://www.zhizhen8.click"
+                ]
+            }
+        },
+       
+        {
+            "key": "FishErxiao",
+            "name": "二小｜4K",
+            "type": 3,
+            "api": "csp_FishCloud",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://www.erixaopan.fun",
+                    "https://www.wexwp.cc",
+                    "https://wexwp.cc",
+                    "https://2xiaopan.top",
+                    "https://www.2xiaopan.top"
+                ]
+            }
+        },
+       
+        {
+            "key": "PanTa",
+            "name": "盘它｜4K",
+            "type": 3,
+            "api": "csp_PanTa",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K",
+            "type": 3,
+            "api": "csp_FishKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://www.kfjwzz.com"
+                ],
+                "cookie": ""
+            }
+        },
+      
+        {
+            "key": "DianYingYunJi",
+            "name": "云集｜4K",
+            "type": 3,
+            "api": "csp_DianYingYunJi",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "YunPanBa",
+            "name": "盘吧｜4K",
+            "type": 3,
+            "api": "csp_YunPanBa",
+            "searchable": 1,
+            "ext": "https://yunpan6.com/"
+        },
+        {
+            "key": "YsSo",
+            "name": "奕搜｜4K",
+            "type": 3,
+            "api": "csp_YsSo",
+            "searchable": 1,
+            "ext": "https://ysso.cc"
+        },
+       
+        {
+            "key": "wencai",
+            "name": "文才｜影视",
+            "type": 3,
+            "api": "csp_WenCai",
+            "searchable": 1,
+            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+        },
+        {
+            "key": "Guazi",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_Guazi",
+            "searchable": 1
+        },
+       
+        {
+            "key": "Ikanbot",
+            "name": "爱看｜影视",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+        },
+        {
+            "key": "Hema",
+            "name": "河马｜短剧",
+            "type": 3,
+            "api": "csp_Hema",
+            "searchable": 1,
+            "quickSearch": 1,
+            "类型": "短剧",
+            "filterable": 1
+        },
+        {
+            "key": "FishDuanju",
+            "name": "超级｜短剧",
+            "type": 3,
+            "api": "csp_FishDuanju",
+            "searchable": 1,
+            "quickSearch": 1,
+            "类型": "短剧",
+            "filterable": 1
+        },
+        {
+            "key": "HHkk",
+            "name": "好看｜短剧",
+            "type": 3,
+            "api": "csp_HHkk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "类型": "短剧",
+            "filterable": 1
+        },
+       
+        {
+            "key": "Jianpian",
+            "name": "荐片｜磁力",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Xb6v",
+            "name": "6 V｜磁力",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "filterable": 1
+        },
+      
+        {
+            "key": "Wallpaper",
+            "name": "摸鱼｜壁纸库",
+            "type": 3,
+            "api": "csp_Wallpaper",
+            "searchable": 0,
+            "indexs": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 0.56
+            }
+        }
+    ],
+    "lives": [],
+    "parses": [],
+    "flags": [],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
